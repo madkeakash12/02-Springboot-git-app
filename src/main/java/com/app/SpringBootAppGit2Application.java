@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringBootAppGit2Application {
+
+int b=20;
 int a=10;
 
 	public static void main(String[] args) {
